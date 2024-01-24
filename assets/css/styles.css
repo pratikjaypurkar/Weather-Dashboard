@@ -1,0 +1,49 @@
+body {
+    
+    background-size: cover;  /* Ensure the background image covers the entire body */
+  
+}
+.section-w{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.container-w {
+    max-width: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.h1-w {
+    margin-bottom: 20px;
+}
+
+.search-container-w {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#weatherInfo {
+    text-align: center;
+}
